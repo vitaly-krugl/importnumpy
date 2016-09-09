@@ -1,0 +1,1 @@
+g++ .\importnumpy.cpp -IC:/tools/python2/include -IC:/tools/python2/Lib/site-packages/numpy/core/include -LC:/tools/python2/libs -llibpython27
